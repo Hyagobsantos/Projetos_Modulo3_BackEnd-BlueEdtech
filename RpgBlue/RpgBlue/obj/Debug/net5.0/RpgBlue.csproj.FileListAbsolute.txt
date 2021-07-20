@@ -1,0 +1,16 @@
+C:\blue\mod_3\RpgBlue\RpgBlue\bin\Debug\net5.0\RpgBlue.exe
+C:\blue\mod_3\RpgBlue\RpgBlue\bin\Debug\net5.0\RpgBlue.deps.json
+C:\blue\mod_3\RpgBlue\RpgBlue\bin\Debug\net5.0\RpgBlue.runtimeconfig.json
+C:\blue\mod_3\RpgBlue\RpgBlue\bin\Debug\net5.0\RpgBlue.runtimeconfig.dev.json
+C:\blue\mod_3\RpgBlue\RpgBlue\bin\Debug\net5.0\RpgBlue.dll
+C:\blue\mod_3\RpgBlue\RpgBlue\bin\Debug\net5.0\ref\RpgBlue.dll
+C:\blue\mod_3\RpgBlue\RpgBlue\bin\Debug\net5.0\RpgBlue.pdb
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.csproj.AssemblyReference.cache
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.AssemblyInfoInputs.cache
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.AssemblyInfo.cs
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.csproj.CoreCompileInputs.cache
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.dll
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\ref\RpgBlue.dll
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.pdb
+C:\blue\mod_3\RpgBlue\RpgBlue\obj\Debug\net5.0\RpgBlue.genruntimeconfig.cache
